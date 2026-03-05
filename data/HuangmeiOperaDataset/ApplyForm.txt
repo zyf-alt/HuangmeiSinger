@@ -1,8 +1,8 @@
-name: ***
+name: 张逸凡
 
-affiliations: *** (school or institution)
+affiliations: 合肥工业大学
 
-research fields: ***
+research fields: 戏剧合成
 
 We want to apply for HuangmeiOperaSingingDataset(HOSD) and agree to the dataset license: CC by-nc-sa 4.0 (NonCommercial!).
 
